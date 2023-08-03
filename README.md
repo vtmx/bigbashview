@@ -124,7 +124,7 @@ echo "
 
 ```sh
 $chmod +x hello.sh
-./bigbashview.py 'execute$hello.sh'
+bigbashview.py 'execute$hello.sh'
 ```
 
 ## Server Options
